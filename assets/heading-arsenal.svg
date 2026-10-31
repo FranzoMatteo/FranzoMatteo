@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="56" viewBox="0 0 900 56" fill="none" role="img" aria-label="arsenal">
+<defs>
+  <linearGradient id="l" x1="0" x2="1"><stop offset="0" stop-color="#C4A1FF" stop-opacity="0"/><stop offset="1" stop-color="#C4A1FF"/></linearGradient>
+  <linearGradient id="r" x1="0" x2="1"><stop offset="0" stop-color="#7C3AED"/><stop offset="1" stop-color="#7C3AED" stop-opacity="0"/></linearGradient>
+  <linearGradient id="t" x1="0" x2="1"><stop offset="0" stop-color="#C4A1FF"/><stop offset="1" stop-color="#E879F9"/></linearGradient>
+</defs>
+<rect x="60" y="27.0" width="276.1" height="2" fill="url(#l)"/>
+<rect x="563.9" y="27.0" width="276.1" height="2" fill="url(#r)"/>
+<rect x="340.1" y="25.0" width="6" height="6" fill="#C4A1FF" transform="rotate(45 343.1 28.0)"/>
+<rect x="553.9" y="25.0" width="6" height="6" fill="#7C3AED" transform="rotate(45 556.9 28.0)"/>
+<text x="450.0" y="34.0" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','Cascadia Code',Consolas,Menlo,'DejaVu Sans Mono',monospace" font-size="18" font-weight="700" letter-spacing="5" fill="url(#t)">// ARSENAL</text>
+</svg>

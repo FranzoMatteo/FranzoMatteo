@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="176" viewBox="0 0 440 176" fill="none" role="img" aria-label="CTF Writeups">
+<defs>
+  <linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#E879F9"/><stop offset="0.5" stop-color="#2E2541"/><stop offset="1" stop-color="#E879F9"/></linearGradient>
+  <radialGradient id="g" cx="1" cy="0" r="0.8"><stop offset="0" stop-color="#E879F9" stop-opacity="0.18"/><stop offset="1" stop-color="#E879F9" stop-opacity="0"/></radialGradient>
+  <clipPath id="c"><rect width="440" height="176" rx="16"/></clipPath>
+</defs>
+<g clip-path="url(#c)">
+  <rect width="440" height="176" fill="#0E0B16"/>
+  <rect width="440" height="176" fill="url(#g)"/>
+</g>
+<rect x="1" y="1" width="438" height="174" rx="16" stroke="url(#b)" stroke-width="1.5">
+  <animate attributeName="stroke-opacity" values="0.55;1;0.55" dur="4s" repeatCount="indefinite"/>
+</rect>
+<path d="M26 34a4 4 0 0 1 4-4h9l4 5h13a4 4 0 0 1 4 4v15a4 4 0 0 1-4 4H30a4 4 0 0 1-4-4z" stroke="#E879F9" stroke-width="2"/>
+<text x="72" y="45" font-family="'Segoe UI','Inter',-apple-system,'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="21" font-weight="700" fill="#FFFFFF">CTF Writeups</text>
+<text x="72" y="64" font-family="'JetBrains Mono','Fira Code','Cascadia Code',Consolas,Menlo,'DejaVu Sans Mono',monospace" font-size="12" fill="#9186A8">FranzoMatteo/ctf-writeups</text>
+<text x="414" y="46" text-anchor="end" font-family="'JetBrains Mono','Fira Code','Cascadia Code',Consolas,Menlo,'DejaVu Sans Mono',monospace" font-size="20" fill="#E879F9">-&gt;</text>
+<text x="26" y="98" font-family="'Segoe UI','Inter',-apple-system,'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14.5" fill="#9186A8">Competitions I've played, organised by event and</text><text x="26" y="119" font-family="'Segoe UI','Inter',-apple-system,'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14.5" fill="#9186A8">category.</text>
+<rect x="26" y="132" width="43.96" height="24" rx="12" fill="#E879F9" fill-opacity="0.12" stroke="#E879F9" stroke-opacity="0.45"/><text x="47.98" y="148" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','Cascadia Code',Consolas,Menlo,'DejaVu Sans Mono',monospace" font-size="12" fill="#E879F9">ctf</text><rect x="77.96" y="132" width="43.96" height="24" rx="12" fill="#E879F9" fill-opacity="0.12" stroke="#E879F9" stroke-opacity="0.45"/><text x="99.94" y="148" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','Cascadia Code',Consolas,Menlo,'DejaVu Sans Mono',monospace" font-size="12" fill="#E879F9">web</text><rect x="129.92" y="132" width="65.92" height="24" rx="12" fill="#E879F9" fill-opacity="0.12" stroke="#E879F9" stroke-opacity="0.45"/><text x="162.88" y="148" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','Cascadia Code',Consolas,Menlo,'DejaVu Sans Mono',monospace" font-size="12" fill="#E879F9">crypto</text><rect x="203.84" y="132" width="43.96" height="24" rx="12" fill="#E879F9" fill-opacity="0.12" stroke="#E879F9" stroke-opacity="0.45"/><text x="225.82" y="148" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','Cascadia Code',Consolas,Menlo,'DejaVu Sans Mono',monospace" font-size="12" fill="#E879F9">pwn</text><rect x="255.8" y="132" width="51.28" height="24" rx="12" fill="#E879F9" fill-opacity="0.12" stroke="#E879F9" stroke-opacity="0.45"/><text x="281.44" y="148" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','Cascadia Code',Consolas,Menlo,'DejaVu Sans Mono',monospace" font-size="12" fill="#E879F9">more</text>
+</svg>

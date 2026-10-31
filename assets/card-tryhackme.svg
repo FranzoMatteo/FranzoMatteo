@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="176" viewBox="0 0 440 176" fill="none" role="img" aria-label="TryHackMe">
+<defs>
+  <linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#C4A1FF"/><stop offset="0.5" stop-color="#2E2541"/><stop offset="1" stop-color="#C4A1FF"/></linearGradient>
+  <radialGradient id="g" cx="1" cy="0" r="0.8"><stop offset="0" stop-color="#C4A1FF" stop-opacity="0.18"/><stop offset="1" stop-color="#C4A1FF" stop-opacity="0"/></radialGradient>
+  <clipPath id="c"><rect width="440" height="176" rx="16"/></clipPath>
+</defs>
+<g clip-path="url(#c)">
+  <rect width="440" height="176" fill="#0E0B16"/>
+  <rect width="440" height="176" fill="url(#g)"/>
+</g>
+<rect x="1" y="1" width="438" height="174" rx="16" stroke="url(#b)" stroke-width="1.5">
+  <animate attributeName="stroke-opacity" values="0.55;1;0.55" dur="4s" repeatCount="indefinite"/>
+</rect>
+<path d="M26 34a4 4 0 0 1 4-4h9l4 5h13a4 4 0 0 1 4 4v15a4 4 0 0 1-4 4H30a4 4 0 0 1-4-4z" stroke="#C4A1FF" stroke-width="2"/>
+<text x="72" y="45" font-family="'Segoe UI','Inter',-apple-system,'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="21" font-weight="700" fill="#FFFFFF">TryHackMe</text>
+<text x="72" y="64" font-family="'JetBrains Mono','Fira Code','Cascadia Code',Consolas,Menlo,'DejaVu Sans Mono',monospace" font-size="12" fill="#9186A8">FranzoMatteo/tryhackme</text>
+<text x="414" y="46" text-anchor="end" font-family="'JetBrains Mono','Fira Code','Cascadia Code',Consolas,Menlo,'DejaVu Sans Mono',monospace" font-size="20" fill="#C4A1FF">-&gt;</text>
+<text x="26" y="98" font-family="'Segoe UI','Inter',-apple-system,'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14.5" fill="#9186A8">Learning-path notes, cheatsheets and writeups of</text><text x="26" y="119" font-family="'Segoe UI','Inter',-apple-system,'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14.5" fill="#9186A8">completed challenges.</text>
+<rect x="26" y="132" width="58.6" height="24" rx="12" fill="#C4A1FF" fill-opacity="0.12" stroke="#C4A1FF" stroke-opacity="0.45"/><text x="55.3" y="148" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','Cascadia Code',Consolas,Menlo,'DejaVu Sans Mono',monospace" font-size="12" fill="#C4A1FF">notes</text><rect x="92.6" y="132" width="80.56" height="24" rx="12" fill="#C4A1FF" fill-opacity="0.12" stroke="#C4A1FF" stroke-opacity="0.45"/><text x="132.88" y="148" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','Cascadia Code',Consolas,Menlo,'DejaVu Sans Mono',monospace" font-size="12" fill="#C4A1FF">writeups</text><rect x="181.16" y="132" width="43.96" height="24" rx="12" fill="#C4A1FF" fill-opacity="0.12" stroke="#C4A1FF" stroke-opacity="0.45"/><text x="203.14" y="148" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','Cascadia Code',Consolas,Menlo,'DejaVu Sans Mono',monospace" font-size="12" fill="#C4A1FF">thm</text>
+</svg>
