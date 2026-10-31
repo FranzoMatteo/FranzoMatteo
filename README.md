@@ -12,7 +12,7 @@
 
 <img src="assets/heading-arsenal.svg" width="100%" alt="arsenal"/>
 
-<img src="https://skillicons.dev/icons?i=linux,windows,bash,python,powershell,docker,git,regex,postman,aws,azure&theme=dark&perline=10" alt="skills"/>
+<img src="https://skillicons.dev/icons?i=linux,windows,bash,python,powershell,docker,git,regex,postman,aws&theme=dark&perline=10" alt="skills"/>
 
 <br/><br/>
 
